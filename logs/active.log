@@ -1,0 +1,15 @@
+[2021-05-24 14:10:56,146] {config.py:47} INFO - Creating local BentoML config file at: C:\Users\Karala Veera Sekhar/bentoml\bentoml.cfg
+[2021-05-24 14:52:20,031] {bundler.py:69} WARNING - Missing declared artifact 'model' for BentoService 'IrisClassifier'
+[2021-05-24 14:52:20,031] {__init__.py:263} WARNING - Skip saving empty artifact, SklearnModelArtifact('model')
+[2021-05-24 14:52:21,268] {bento_repository_api.py:200} INFO - BentoService bundle 'IrisClassifier:20210524145219_E5864D' saved to: C:\Users\Karala Veera Sekhar/bentoml/repository/IrisClassifier\20210524145219_E5864D
+[2021-05-24 14:57:30,853] {yatai_service_impl.py:418} INFO - Getting latest version IrisClassifier:20210524145219_E5864D
+[2021-05-24 14:57:30,963] {__init__.py:101} INFO - Starting BentoML API proxy in development mode..
+[2021-05-24 14:57:33,603] {marshal.py:189} INFO - Your system nofile limit is 1024, which means each instance of microbatch service is able to hold this number of connections at same time. You can increase the number of file descriptors for the server process, or launch more microbatch instances to accept more concurrent connection.
+[2021-05-24 14:57:34,952] {__init__.py:81} INFO - Starting BentoML API server in development mode..
+[2021-05-24 14:57:36,891] {pip_pkg.py:126} INFO - Detected zipimporter <zipimporter object "C:\Users\Karala Veera Sekhar\Envs\env1\Scripts\bentoml.exe">
+[2021-05-24 15:07:26,908] {bento_repository_api.py:200} INFO - BentoService bundle 'IrisClassifier:20210524150725_0C1B0D' saved to: C:\Users\Karala Veera Sekhar/bentoml/repository/IrisClassifier\20210524150725_0C1B0D
+[2021-05-24 15:12:20,780] {yatai_service_impl.py:418} INFO - Getting latest version IrisClassifier:20210524150725_0C1B0D
+[2021-05-24 15:12:20,861] {__init__.py:101} INFO - Starting BentoML API proxy in development mode..
+[2021-05-24 15:12:21,899] {marshal.py:189} INFO - Your system nofile limit is 1024, which means each instance of microbatch service is able to hold this number of connections at same time. You can increase the number of file descriptors for the server process, or launch more microbatch instances to accept more concurrent connection.
+[2021-05-24 15:12:25,081] {__init__.py:81} INFO - Starting BentoML API server in development mode..
+[2021-05-24 15:12:27,165] {pip_pkg.py:126} INFO - Detected zipimporter <zipimporter object "C:\Users\Karala Veera Sekhar\Envs\env1\Scripts\bentoml.exe">
